@@ -91,9 +91,9 @@ td:after{
     transition: 0.5s opacity
 }
 
-td:hover:after{
+/*td:hover:after{
     opacity: 1;
-}
+}*/
  
  #reset, #robot, #new{
     display: block;
